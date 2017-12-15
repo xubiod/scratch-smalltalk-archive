@@ -12,6 +12,6 @@ this would be impossible.
 
 Scratch is a project of the Lifelong Kindergarten Group at the MIT Media Lab.
 The Scratch Cat is an image of Scratch from MIT.
-By using these files you are complying with Scratch's [https://scratch.mit.edu/terms_of_use](Terms of Use).
+By using these files you are complying with Scratch's [Terms of Use](https://scratch.mit.edu/terms_of_use).
 
 I am not claiming to have made these, this is just a hosting repository.
