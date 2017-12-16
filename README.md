@@ -16,7 +16,7 @@ more details [here](https://github.com/xubiod/scratch-archive)
  * Scratch13Oct04 (Oct 13, 2004) (Scratch for MAS 714) [download locally](/Scratch13Oct04.image)
 
 ## Old Mods
- * NetScratch 1.0.1 [download locally](/NetScratch 1.0.1.image)
+ * NetScratch 1.0.1 [download locally](/NetScratch%201.0.1.image)
 
 ## 1.0.x
  * 1.0.0 [download locally](/1.0.0.image)
