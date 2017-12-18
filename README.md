@@ -40,6 +40,8 @@ more details [here](https://github.com/xubiod/scratch-archive)
  * 1.4 beta [download](/1.4beta.image) / [try online](http://try.squeak.org/#url=https://xubiod.github.io/scratch-archive/&files=[1.4beta.image])
  * 1.4 release candidate [download](/Scratch%201.4%20rc.image) / [try online](http://try.squeak.org/#url=https://xubiod.github.io/scratch-archive/&files=[Scratch%201.4%20rc.image])
  * 1.4 [download](/1.4.image) / [try online](http://try.squeak.org/#url=https://xubiod.github.io/scratch-archive/&files=[1.4.image])
+ * 1.4.0.1 [download](/Scratch%201.4.0.1.image) / [try online](http://try.squeak.org/#url=https://xubiod.github.io/scratch-archive/&files=[Scratch%201.4.0.1.image])
+ * 1.4.0.7 [download](/Scratch%201.4.0.7.image) / [try online](http://try.squeak.org/#url=https://xubiod.github.io/scratch-archive/&files=[Scratch%201.4.0.7.image])
 
 Scratch is a project of the Lifelong Kindergarten Group at the MIT Media Lab.
 The Scratch Cat is an image of Scratch from MIT.
