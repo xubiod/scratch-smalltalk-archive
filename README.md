@@ -17,6 +17,8 @@ more details [here](https://github.com/xubiod/scratch-archive)
 
 ## Old Mods
  * NetScratch 1.0.1 [download](/NetScratch%201.0.1.image) / [try online](http://try.squeak.org/#url=https://xubiod.github.io/scratch-archive/&files=[NetScratch%201.0.1.image])
+ * NetScratch 1.1 [download](/NetScratch%201.1.image) / [try online](http://try.squeak.org/#url=https://xubiod.github.io/scratch-archive/&files=[NetScratch%201.1.image])
+ * NetScratch Server [download](/NetScratchServer.image) / [try online](http://try.squeak.org/#url=https://xubiod.github.io/scratch-archive/&files=[NetScratchServer.image])
 
 ## 1.0.x
  * 1.0.0 [download](/1.0.0.image) / [try online](http://try.squeak.org/#url=https://xubiod.github.io/scratch-archive/&files=[1.0.0.image])
