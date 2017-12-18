@@ -1,5 +1,5 @@
 # scratch-archive
-a (partially) complete repo with scratch versions 1.0.x to 1.4 (with betas)
+a *(partially)* complete repo with scratch versions from 2004 to now (i think)
 
 props to [djdolphin](https://github.com/djdolphin) for making old archives that, sadly, don't exist anymore
 
