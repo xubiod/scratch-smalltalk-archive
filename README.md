@@ -7,6 +7,7 @@ without:
 * [djdolphin](https://github.com/djdolphin) (old scratch archives)
 * [the wayback machine](https://archive.org) (used to obtain images from old dropbox links)
 * [llk.media.mit.edu](https://llk.media.mit.edu/courses/software/scratch/) (Scratch13Oct04)
+* [retro-person](https://github.com/retro-person) (linking to Scratch14Feb04 in #1)
 
 this would be impossible.
 
