@@ -43,6 +43,10 @@ this would be impossible.
  * 1.4.0.1 [download](/Scratch%201.4.0.1.image) / [try online](http://try.squeak.org/#url=https://xubiod.github.io/scratch-archive/&files=[Scratch%201.4.0.1.image])
  * 1.4.0.7 [download](/Scratch%201.4.0.7.image) / [try online](http://try.squeak.org/#url=https://xubiod.github.io/scratch-archive/&files=[Scratch%201.4.0.7.image])
 
+## Modded Images
+ * BYOB 3.1.1.image [download](/BYOB%203.1.1.image) / [try online](http://try.squeak.org/#url=https://xubiod.github.io/scratch-archive/&files=[BYOB%203.1.1.image])
+ * Streak (1.3.1) 0.1.image [download](Streak%20%281.3.1%29%200.1.image) / [try online](http://try.squeak.org/#url=https://xubiod.github.io/scratch-archive/&files=[Streak%20%281.3.1%29%200.1.image])
+
 Scratch is a project of the Lifelong Kindergarten Group at the MIT Media Lab.
 The Scratch Cat is an image of Scratch from MIT.
 By using these files you are complying with Scratch's [Terms of Use](https://scratch.mit.edu/terms_of_use).
