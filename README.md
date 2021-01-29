@@ -12,6 +12,7 @@ without:
 this would be impossible.
 
 ## Alpha/Beta
+ * Scratch14Feb04 (Feb 14, 2004) (from mid-2003) [download](/Scratch14Feb04.image) / [try online](http://try.squeak.org/#url=https://xubiod.github.io/scratch-archive/&files=[Scratch14Feb04.image])
  * Scratch13Oct04 (Oct 13, 2004) (Scratch for MAS 714) [download](/Scratch13Oct04.image) / [try online](http://try.squeak.org/#url=https://xubiod.github.io/scratch-archive/&files=[Scratch13Oct04.image])
 
 ## NetScratch
