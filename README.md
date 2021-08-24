@@ -14,6 +14,9 @@ this would be impossible.
 ## Alpha/Beta
  * Scratch14Feb04 (Feb 14, 2004) (from mid-2003) [download](/Scratch14Feb04.image) / [try online](http://try.squeak.org/#url=https://xubiod.github.io/scratch-archive/&files=[Scratch14Feb04.image])
  * Scratch13Oct04 (Oct 13, 2004) (Scratch for MAS 714) [download](/Scratch13Oct04.image) / [try online](http://try.squeak.org/#url=https://xubiod.github.io/scratch-archive/&files=[Scratch13Oct04.image])
+ * Scratch28Feb05 (Feb 05, 2005) [download](/Scratch28Feb05.image) / [try online](http://try.squeak.org/#url=https://xubiod.github.io/scratch-archive/&files=[Scratch28Feb05.image])
+ * Scratch14Mar05 (Mar 14, 2005) [download](/Scratch14Mar05.image) / [try online](http://try.squeak.org/#url=https://xubiod.github.io/scratch-archive/&files=[Scratch14Mar05.image])
+ * Scratch27Jul06 (Jul 27, 2006) [download](/Scratch27Jul06.image) / [try online](http://try.squeak.org/#url=https://xubiod.github.io/scratch-archive/&files=[Scratch27Jul06.image])
 
 ## NetScratch
  * NetScratch 1.0.1 [download](/NetScratch%201.0.1.image) / [try online](http://try.squeak.org/#url=https://xubiod.github.io/scratch-archive/&files=[NetScratch%201.0.1.image])
